@@ -1,4 +1,4 @@
-Welcome to the NEON Data Skills Git Repo!
+This is a dev fork of the NEON Data Skills Git Repo!
 ===============================
 
 NEON Data Skills provides tutorials and resources for working with scientific 
@@ -6,24 +6,15 @@ data, including that collected by the National Ecological Observatory Network
 (NEON). NEON is an ecological observatory that will collect and provide open 
 data for 30 years. 
 
+For purposes other than dev testing, please visit the main repo: 
+[NEONScience/NEON-Data-Skills](https://github.com/NEONScience/NEON-Data-Skills "NEONScience/NEON-Data-Skills")
+
 For more information on NEON, visit the website: 
 [www.neonscience.org](http://www.neonscience.org "National Ecological Observatory Network")
-
-This repo contains the materials used to build the NEON Data Skills resources 
-that are available for use on 
-[the NEON Data Skills section of the NEON website](http://www.neonscience.org/neon-data-skills).
 
 <!-- ****** Usage ****** -->
 Usage
 -----
-
-### Contributing
-If you would like to make a change to one of the resources, please fork the repo
-and make a pull request to the master branch with the suggested change. All pull
-requests are reviewed for scientific accuracy and educational pedagogy. Individuals
-who make significant contributions can request to be listed as contributors on 
-individual tutorials. 
-
 ### Questions?
 
 Having a problem getting something to work or want to know why the repo is setup 
