@@ -8,7 +8,7 @@ contributors:
 estimatedTime: 0.5 Hours
 packagesLibraries: raster, rgdal
 topics: lidar, R, raster, remote-sensing, spatial-data-gis
-languagesTool: R
+languagesTool: R, foo
 dataProduct:
 code1: lidar/Create-Lidar-CHM-R.R
 tutorialSeries: [intro-lidar-r-series]
