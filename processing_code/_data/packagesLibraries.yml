@@ -55,3 +55,6 @@
 - slug: plotly
   name: plotly  
   
+  - slug: testPL
+  name: Test PackagesLibraries
+  
