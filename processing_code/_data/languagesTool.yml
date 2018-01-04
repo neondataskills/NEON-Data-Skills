@@ -23,4 +23,7 @@
   name: API
 
 - slug: spreadsheet
-  name: spreadsheet
+  name: Spreadsheet
+
+- slug: testLT
+  name: Test languagesTool
