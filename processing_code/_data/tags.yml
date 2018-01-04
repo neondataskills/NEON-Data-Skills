@@ -45,3 +45,6 @@
 
 - slug: rep-sci
   name: Reproducible Science
+  
+  - slug: testT
+  name: Test Tag
