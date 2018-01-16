@@ -53,8 +53,7 @@
   name: reshape2 
 
 - slug: plotly
-  name: plotly  
+  name: plotly
   
-  - slug: testPL
+- slug: testPL
   name: Test PackagesLibraries
-  
