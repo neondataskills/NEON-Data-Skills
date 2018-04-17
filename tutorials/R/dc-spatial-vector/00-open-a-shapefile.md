@@ -3,7 +3,7 @@ syncID: b9413609bb2c484cb3ce4238596f1cbe
 title: "Vector 00: Open and Plot Shapefiles in R - Getting Started with Point, Line and Polygon Vector Data"
 description: "This spatial data tutorial explains the how to open and plot shapefiles containing point, line and polygon vector data in R."
 dateCreated: 2015-10-23
-authors: Joseph Stachelek, Leah A. Wasser, Megan A. Jones
+authors: Joseph Stachelek, Leah A. Wasser, Megan Jones
 contributors: Sarah Newman
 estimatedTime:
 packagesLibraries: rgdal, raster
